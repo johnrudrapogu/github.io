@@ -77,19 +77,19 @@ table td.r, table th.r {
     top: 0;
   }
   table tbody tr td:nth-child(1):before {
-    content: "Code";
+    content: "Serial";
   }
   table tbody tr td:nth-child(2):before {
-    content: "Stock";
+    content: "Date";
   }
   table tbody tr td:nth-child(3):before {
-    content: "Cap";
+    content: "Task";
   }
   table tbody tr td:nth-child(4):before {
-    content: "Inch";
+    content: "Description";
   }
   table tbody tr td:nth-child(5):before {
-    content: "Box Type";
+    content: "Link";
   }
 }
 body, html {
